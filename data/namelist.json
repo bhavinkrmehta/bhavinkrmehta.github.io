@@ -80,5 +80,31 @@
         "address": "tom.hardy@abc.com"
       }
     ]
+  },
+  {
+    "FirstName": "Peace",
+    "Surname": "Ful",
+    "Age": 50,
+    "Address": {
+      "Street": "Peace Street",
+      "City": "India",
+      "Postcode": "441011"
+    },
+    "Phone": [
+      {
+        "type": "home",
+        "number": "9876543210"
+      }
+    ],
+    "Email": [
+      {
+        "type": "work",
+        "address": "peaceful@xyz.com"
+      },
+      {
+        "type": "home",
+        "address": "peaceful@abc.com"
+      }
+    ]
   }
 ]
